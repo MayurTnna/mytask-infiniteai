@@ -4,7 +4,7 @@ import Careers from './Careers'
 const MainSection = () => {
   return (
    <>
-   <Careers/>
+  <p>Helllo</p>
    </>
   )
 }
